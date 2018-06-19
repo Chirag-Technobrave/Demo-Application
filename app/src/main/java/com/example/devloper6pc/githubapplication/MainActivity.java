@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         String val;
         Toast.makeText(this, "", Toast.LENGTH_SHORT).show();
 
-
+        String s = "V1.0";
     }
 }
