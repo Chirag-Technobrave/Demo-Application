@@ -16,5 +16,7 @@ public class MainActivity extends AppCompatActivity {
         String devlop="V1.1";
 
         String s = "V1.0";
+
+        String rel="Release V1.0";
     }
 }
