@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "", Toast.LENGTH_SHORT).show();
 
 
+        String devlop="V1.1";
+
     }
 }
